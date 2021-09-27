@@ -1,1 +1,1 @@
-# web
+# a small web project
